@@ -1,5 +1,6 @@
 /tmp
 /wrk
+/res
 /target/
 !.mvn/wrapper/maven-wrapper.jar
 manifest.yml
